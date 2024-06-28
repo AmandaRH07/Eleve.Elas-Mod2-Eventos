@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Eventos/1.0.0": {
+        "dependencies": {
+          "Eventos.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Eventos.dll": {}
+        }
+      },
+      "Eventos.Domain/1.0.0": {
+        "runtime": {
+          "Eventos.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Eventos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Eventos.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

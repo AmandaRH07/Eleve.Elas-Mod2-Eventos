@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos", "Eventos.csproj", "{B6CA666E-AA94-4296-86F4-4B7EF7CCF77C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Eventos.Domain", "..\Eventos.Domain\Eventos.Domain.csproj", "{39A0B2CA-429A-4B9A-8118-339EC1D0A860}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6CA666E-AA94-4296-86F4-4B7EF7CCF77C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6CA666E-AA94-4296-86F4-4B7EF7CCF77C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6CA666E-AA94-4296-86F4-4B7EF7CCF77C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6CA666E-AA94-4296-86F4-4B7EF7CCF77C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{39A0B2CA-429A-4B9A-8118-339EC1D0A860}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39A0B2CA-429A-4B9A-8118-339EC1D0A860}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39A0B2CA-429A-4B9A-8118-339EC1D0A860}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39A0B2CA-429A-4B9A-8118-339EC1D0A860}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32129BFE-3974-45C2-9E74-2D65B3EF62AD}
+	EndGlobalSection
+EndGlobal
